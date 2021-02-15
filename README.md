@@ -5,12 +5,12 @@
 Course Date: 16.02.2021 <br/>
 Name: İlkay <br/>
 Surname: Tuğ <br/>
-Email: ilkaytug8@gmail.com <br/>
+Email: ilkaytug8@gmail.com c
 
 **Project Name**
 Description of your project.
 
-**Requirements**
-Some python libraries
-Some python libraries
-Some python libraries
+**Requirements**<br/>
+Some python libraries<br/>
+Some python libraries<br/>
+Some python libraries<br/>
