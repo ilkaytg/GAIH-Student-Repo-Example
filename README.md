@@ -5,7 +5,7 @@
 Course Date: 16.02.2021 <br/>
 Name: İlkay <br/>
 Surname: Tuğ <br/>
-Email: ilkaytug8@gmail.com c
+Email: ilkaytug8@gmail.com 
 
 **Project Name**
 Description of your project.
